@@ -1,0 +1,4 @@
+env_isaacsim/
+
+# Ignore workspace
+*.code-workspace
