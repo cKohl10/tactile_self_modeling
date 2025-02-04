@@ -1,2 +1,2 @@
 training_env_path: "/home/carson/training_envs/isaac_sim"
-scene_name: "franka_basic_poses" # Motor babbling without contact sensing (Must be USD file)
+scene_name: "franka_alt_basic_poses" # Motor babbling without contact sensing (Must be USD file)
